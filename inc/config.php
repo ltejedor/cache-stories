@@ -9,5 +9,4 @@ require("html.php");
 
 date_default_timezone_set("America/New_York");
 
-include "../assets/svg/svgcontainer.svg";
 ?>

@@ -17,6 +17,8 @@ function htmlHeader($title=Null, $description=Null, $keywords=Null){
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <link href="http://fonts.googleapis.com/css?family=Bitter:400,700" rel="stylesheet" type="text/css">
     </head>
     <body>
         <!--[if lt IE 8]>
